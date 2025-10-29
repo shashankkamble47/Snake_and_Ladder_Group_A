@@ -92,7 +92,7 @@ Final ranking is displayed automatically!
 ## Contributors 
 - [@Sneha]()
 - [@Shashank]()
-- [@Tanmay]()
+- [@Tanmay](https://github.com/tanmaykg)
 - [@Aditya Yadav]()
 - [@Shivam]()
 - [@Vinod]()
